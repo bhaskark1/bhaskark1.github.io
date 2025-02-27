@@ -1,4 +1,12 @@
-![Profile Picture](profile.jpg)
+<p align="left">
+  <img src="profile.jpg" alt="Bhaskar Khekale" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+</p>
+
+<h1 align="center">Bhaskar Khekale</h1>
+<p align="center"><strong>Data Analytics Engineer</strong></p>
+
+Welcome to my portfolio! I am a Data Analytics Engineer passionate about transforming data into actionable insights. Skilled in SQL, Python, and data visualization with a focus on data-driven decisions.
+
 # Data Analytics Engineer
 
 ## About me
