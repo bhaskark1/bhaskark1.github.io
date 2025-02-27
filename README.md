@@ -62,13 +62,13 @@ Welcome to my portfolio! I am a Data Analytics Engineer passionate about transfo
  manual reporting efforts, and improving data-driven decision-making by 25%.
 
 <h3><span style="color: #0366d6;">Education</span></h3>
-- DePaul University | GPA: 3.9 | Sep 2022 – Nov 2024 | Chicago, USA
+- Master of Science in Cybersecurity
 
-Master of Science in Cybersecurity
+DePaul University | GPA: 3.9 | Sep 2022 – Nov 2024 | Chicago, USA
+
+- Bachelor of Engineering in Information Technology
   
-- Mumbai University | Jul 2017 – Jun 2021 | Mumbai, India
-
-Bachelor of Engineering in Information Technology
+Mumbai University | Jul 2017 – Jun 2021 | Mumbai, India
 
 <h3><span style="color: #0366d6;">Certifications</span></h3>
 - Data Science using R, John Hopkins University:
