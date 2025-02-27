@@ -2,12 +2,11 @@
   <img src="profile.jpg" alt="Bhaskar Khekale" width="150" height="150" style="object-fit: cover; object-position: top;">
 </p>
 
-<h1 align="center">Bhaskar Khekale</h1>
-<p align="center"><strong>Data Analytics Engineer</strong></p>
+<h1 align="center"><span style="color: blue;">Bhaskar Khekale</span></h1>
+<h2 align="center"><strong><span style="color: blue;">Data Analytics Engineer</span></strong></h2>
 
 Welcome to my portfolio! I am a Data Analytics Engineer passionate about transforming data into actionable insights. Skilled in SQL, Python, and data visualization with a focus on data-driven decisions.
 
-# Data Analytics Engineer
 
 ## About me
 - Data Analyst / Engineer with around 4 years of experience in designing, developing, and optimizing scalable data solutions using
