@@ -2,14 +2,14 @@
   <img src="profile.jpg" alt="Bhaskar Khekale" width="150" height="150" style="object-fit: cover; object-position: top;">
 </p>
 
-<h2 align="left"><strong><span style="color: DodgerBlue;">Data Analytics Engineer</span></strong></h2>
+<h2 align="left"><strong><span style="color: #0366d6;">Data Analytics Engineer</span></strong></h2>
 
-<span style="color: DodgerBlue;">[LinkedIn](www.linkedin.com/in/bhaskarkhekale) | [Email](bhaskarkhekale@gmail.com) | Chicago, Illinois | +1(773)747-0819</span>
+[LinkedIn](www.linkedin.com/in/bhaskarkhekale) | [Email](bhaskarkhekale@gmail.com) | Chicago, Illinois | +1(773)747-0819
 
 Welcome to my portfolio! I am a Data Analytics Engineer passionate about transforming data into actionable insights. Skilled in SQL, Python, and data visualization with a focus on data-driven decisions.
 
 
-## About me
+<span style="color: #0366d6;">## About me</span>
 - Data Analyst / Engineer with around 4 years of experience in designing, developing, and optimizing scalable data solutions using
  Python, SQL, Apache Spark, and cloud platforms to drive data-driven decision-making.
 - Expert in data transformation and pipeline automation, leveraging Python, SQL, Apache Spark, and Airflow to process 10TB+
@@ -19,7 +19,7 @@ Welcome to my portfolio! I am a Data Analytics Engineer passionate about transfo
 - Skilled in cloud-based data management and visualization, optimizing queries on AWS (Redshift, S3, Glue), Snowflake, and GCP
  (BigQuery) to reduce execution time by 50%, while automating reports for 300+ stakeholders using Tableau, Power BI, and Looker.
 
-## Technical Skills
+<span style="color: #0366d6;">## Technical Skills</span>
 - Programming Languages: Python, SQL, R, Scala, Java
 - Data Engineering Tools: Apache Spark, Hadoop, Airflow, Kafka, Snowflake, ETL Pipelines
 - Databases & Storage: PostgreSQL, MySQL, MongoDB, Redshift, BigQuery, Snowflake, NoSQL, Delta Lake
@@ -32,7 +32,7 @@ Welcome to my portfolio! I am a Data Analytics Engineer passionate about transfo
 - Statistical Analysis & Experimentation: A/B Testing, Hypothesis Testing, Bayesian Inference, Time Series Analysis
 - Workflow Automation & Scripting: Shell Scripting, Apache Airflow
 
-## Work Experience
+<span style="color: #0366d6;">## Work Experience</span>
 **Data Analyst at IBM    | Nov 2023 – Present   | Remote, USA**
 - Architected and enhanced scalable ETL pipelines using Apache Spark, AWS Glue, and SQL, cutting data transformation latency by
  35%, ensuring efficient processing of high-volume structured and semi-structured datasets.
@@ -58,21 +58,21 @@ Welcome to my portfolio! I am a Data Analytics Engineer passionate about transfo
 - Designed and deployed interactive dashboards using Tableau and Power BI, providing real-time insights to 300+ stakeholders, reducing
  manual reporting efforts, and improving data-driven decision-making by 25%.
 
-## Education
+<span style="color: #0366d6;">## Education</span>
 - DePaul University | GPA: 3.9 | Sep 2022 – Nov 2024 | Chicago, USA
-  Master of Science in Cybersecurity
+Master of Science in Cybersecurity
   
-- Mumbai University |Jul 2017 – Jun 2021 | Mumbai, India
-  Bachelor of Engineering in Information Technology
+- Mumbai University | Jul 2017 – Jun 2021 | Mumbai, India
+Bachelor of Engineering in Information Technology
 
-## Certifications
+<span style="color: #0366d6;">## Certifications</span>
 - Data Science using R, John Hopkins University:
 [Certificate](https://coursera.org/share/984e0126a65bd7d9d04882d0ebd022c7)
 
 - Big data, University of San Diego California.
 [Certificate](https://coursera.org/share/55eba83b7dbb11ea364ed652438ffac4)
 
--Applied Data science with Python, University of Michigan.
+- Applied Data science with Python, University of Michigan.
 [Certificate](https://coursera.org/share/4ef00ba730349b3af1a00428143255af)
 
 - Text mining and analytics, University of  Illinois-Urbana Champaign
