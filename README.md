@@ -3,10 +3,10 @@
        style="object-fit: cover; object-position: top; border-radius: 15px;">
 </p>
 
-
 <h2 align="left"><strong><span style="color: #0366d6;">Data Analytics Engineer</span></strong></h2>
 
-[LinkedIn](www.linkedin.com/in/bhaskarkhekale) | [Email](bhaskarkhekale@gmail.com) | Chicago, Illinois | +1(773)747-0819
+<a href="https://www.linkedin.com/in/bhaskarkhekale/" target="_blank">LinkedIn</a> | <a href="mailto:bhaskarkhekale@gmail.com">Email Me</a> | Chicago, Illinois | +1(773)747-0819
+
 
 Welcome to my portfolio! I am a Data Analytics Engineer passionate about transforming data into actionable insights. Skilled in SQL, Python, and data visualization with a focus on data-driven decisions.
 
