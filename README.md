@@ -1,3 +1,4 @@
+![Profile Picture](profile.jpg)
 # Data Analytics Engineer
 
 ## About me
