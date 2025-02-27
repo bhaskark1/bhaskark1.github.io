@@ -1,9 +1,10 @@
-<p align="center">
+<p align="left">
   <img src="profile.jpg" alt="Bhaskar Khekale" width="150" height="150" style="object-fit: cover; object-position: top;">
 </p>
 
-<h1 align="center"><span style="color: blue;">Bhaskar Khekale</span></h1>
-<h2 align="center"><strong><span style="color: blue;">Data Analytics Engineer</span></strong></h2>
+<h2 align="left"><strong><span style="color: DodgerBlue;">Data Analytics Engineer</span></strong></h2>
+
+<span style="color: DodgerBlue;">[LinkedIn](www.linkedin.com/in/bhaskarkhekale) | [Email](bhaskarkhekale@gmail.com) | Chicago, Illinois | +1(773)747-0819</span>
 
 Welcome to my portfolio! I am a Data Analytics Engineer passionate about transforming data into actionable insights. Skilled in SQL, Python, and data visualization with a focus on data-driven decisions.
 
