@@ -1,5 +1,5 @@
-<p align="left">
-  <img src="profile.jpg" alt="Bhaskar Khekale" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+<p align="center">
+  <img src="profile.jpg" alt="Bhaskar Khekale" width="150" height="150" style="object-fit: cover; object-position: top;">
 </p>
 
 <h1 align="center">Bhaskar Khekale</h1>
