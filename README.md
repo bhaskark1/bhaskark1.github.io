@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="profile.jpg" alt="Bhaskar Khekale" width="150" height="150" style="object-fit: cover; object-position: top;">
+<p align="left">
+  <img src="profile.jpg" alt="Bhaskar Khekale" width="150" height="150" 
+       style="object-fit: cover; object-position: top; border-radius: 15px;">
 </p>
 
-<h1 align="center">Bhaskar Khekale</h1>
 
-<h2 align="center"><strong><span style="color: #0366d6;">Data Analytics Engineer</span></strong></h2>
+<h2 align="left"><strong><span style="color: #0366d6;">Data Analytics Engineer</span></strong></h2>
 
 [LinkedIn](www.linkedin.com/in/bhaskarkhekale) | [Email](bhaskarkhekale@gmail.com) | Chicago, Illinois | +1(773)747-0819
 
