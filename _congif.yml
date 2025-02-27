@@ -1,6 +1,7 @@
-name: ""
 title: null
 #logo: "https://bhaskark1.github.io/profile.jpg"
 #description: "Data Analytics Engineer passionate about transforming data into actionable insights. Skilled in SQL, Python, and data visualization with a focus on data-driven decisions."
 show_downloads: true
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
